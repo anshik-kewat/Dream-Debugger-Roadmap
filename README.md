@@ -48,5 +48,5 @@ My strategy is the **Hybrid Method**: I use structured courses (LinkedIn Learnin
 
 ### 📫 Connect with me
 - **YouTube:** [Dream Debugger](https://www.youtube.com/@DreamDebugger)
-- **GitHub:** @anshik-kewat
+- **GitHub:** [Dream Debugger](https://github.com/Dream-Debugger-Dev)
 - **Gmail:** [Dream Debugger](debuggerdream@gmail.com)
