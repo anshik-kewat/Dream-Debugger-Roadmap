@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dream%20Debugger&desc=Coding%20the%20Future%20One%20Script%20at%20a%20Time%20//%20Non-Dev%20to%20Full%20stack%20developer%20&descAlign=50&descAlignY=69)
+
 # 🚀 The Dream Debugger Roadmap
 
 > **Current Status:** Day 0 (Starting from scratch)
